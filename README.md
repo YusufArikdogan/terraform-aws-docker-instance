@@ -16,3 +16,4 @@ module "docker_instance" {
     source = "YusufArikdogan/docker-instance/aws"
     key_name = "yusufkey"
 }
+```
